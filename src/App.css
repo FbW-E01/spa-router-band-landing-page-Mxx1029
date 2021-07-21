@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@700&display=swap');
+
+#root {
+    background-color: #000;
+    height: 100vh;
+}
+
+.heading {
+    color: #fff;
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Cabin Sketch', cursive;
+    text-shadow: 2px 5px 0px #00e6e6,
+                 5px 10px 0px #01cccc,
+                 9px 15px 0px #00bdbd;
+
+}
+
